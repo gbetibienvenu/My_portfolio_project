@@ -70,3 +70,6 @@ Expect an update soon on this feature!
 1. Clone this repository:
    ```bash
    git clone 'repo here'
+
+## Link to my page
+https://gbetibienvenu.github.io/My_portfolio_project/
